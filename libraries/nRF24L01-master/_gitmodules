@@ -1,3 +1,0 @@
-[submodule "RF24"]
-	path = RF24
-	url = git@github.com:maniacbug/RF24.git
